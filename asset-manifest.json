@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Routing-Part-2-API-Call/static/css/main.0a401bbf.chunk.css",
+    "main.js": "/Routing-Part-2-API-Call/static/js/main.5968772c.chunk.js",
+    "main.js.map": "/Routing-Part-2-API-Call/static/js/main.5968772c.chunk.js.map",
+    "runtime-main.js": "/Routing-Part-2-API-Call/static/js/runtime-main.11f83bfb.js",
+    "runtime-main.js.map": "/Routing-Part-2-API-Call/static/js/runtime-main.11f83bfb.js.map",
+    "static/css/2.7a8f3fa9.chunk.css": "/Routing-Part-2-API-Call/static/css/2.7a8f3fa9.chunk.css",
+    "static/js/2.32ad04a5.chunk.js": "/Routing-Part-2-API-Call/static/js/2.32ad04a5.chunk.js",
+    "static/js/2.32ad04a5.chunk.js.map": "/Routing-Part-2-API-Call/static/js/2.32ad04a5.chunk.js.map",
+    "index.html": "/Routing-Part-2-API-Call/index.html",
+    "static/css/2.7a8f3fa9.chunk.css.map": "/Routing-Part-2-API-Call/static/css/2.7a8f3fa9.chunk.css.map",
+    "static/css/main.0a401bbf.chunk.css.map": "/Routing-Part-2-API-Call/static/css/main.0a401bbf.chunk.css.map",
+    "static/js/2.32ad04a5.chunk.js.LICENSE.txt": "/Routing-Part-2-API-Call/static/js/2.32ad04a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11f83bfb.js",
+    "static/css/2.7a8f3fa9.chunk.css",
+    "static/js/2.32ad04a5.chunk.js",
+    "static/css/main.0a401bbf.chunk.css",
+    "static/js/main.5968772c.chunk.js"
+  ]
+}
